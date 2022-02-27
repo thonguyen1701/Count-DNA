@@ -1,4 +1,4 @@
-# Count-DNA
+# Count DNA
 
 Counting the 'A', 'G', 'T', 'C' from any length DNA string
 
